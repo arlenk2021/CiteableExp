@@ -1,0 +1,23 @@
+[
+  {"item":"USB 3.2 Gen 2 throughput","value":10,"unit":"Gbps","notes":"USB 10 Gbps branding; formerly USB 3.1 Gen 2 / 3.2 Gen 2x1","source_url":"https://www.usb.org/defined-speed-identifiers"},
+  {"item":"Soccer goal size","value":"7.32 x 2.44","unit":"m","notes":"width x height","source_url":"https://www.theifab.com/laws/latest/the-field-of-play/#goal-dimensions"},
+  {"item":"AA battery voltage (alkaline)","value":1.5,"unit":"V","notes":"nominal alkaline","source_url":"https://data.energizer.com/pdfs/e91.pdf"},
+  {"item":"AA battery voltage (NiMH)","value":1.2,"unit":"V","notes":"nominal NiMH rechargeable","source_url":"https://data.energizer.com/pdfs/nh15-2300.pdf"},
+  {"item":"Passport photo size (UK)","value":"35 x 45","unit":"mm","notes":"UK specification","source_url":"https://www.gov.uk/photos-for-passports/rules"},
+  {"item":"Passport photo size (US)","value":"51 x 51","unit":"mm","notes":"US specification (2 x 2 in)","source_url":"https://travel.state.gov/content/travel/en/passports/how-apply/photos.html"},
+  {"item":"HDMI 2.1 bandwidth","value":48,"unit":"Gbps","notes":"Ultra High Speed HDMI","source_url":"https://www.hdmi.org/spec21sub/ultrahighspeedcable"},
+  {"item":"Olympic swimming pool dimensions","value":"50 x 25","unit":"m","notes":"competition; depth ≥ 2.0 m","source_url":"https://en.wikipedia.org/wiki/Swimming_pool#Olympic_size"},
+  {"item":"CPU Tjunction max (AMD typical)","value":95,"unit":"C","notes":"varies by CPU; example AMD limit","source_url":"https://www.amd.com/en/support/kb/faq/cpu-maximum-temperatures"},
+  {"item":"CPU Tjunction max (Intel typical)","value":100,"unit":"C","notes":"varies by CPU; example Intel value","source_url":"https://www.intel.com/content/www/us/en/support/articles/000005597/processors.html"},
+  {"item":"Credit card size (ISO/IEC 7810 ID-1)","value":"85.60 x 53.98","unit":"mm","notes":"corner radius ~3.18 mm","source_url":"https://en.wikipedia.org/wiki/ISO/IEC_7810"},
+  {"item":"Basketball hoop height","value":3.05,"unit":"m","notes":"rim height","source_url":"https://refereeing.fiba.basketball/"},
+  {"item":"DDR5 base speed (JEDEC)","value":4800,"unit":"MT/s","notes":"baseline; ~2400 MHz I/O clock","source_url":"https://www.jedec.org/standards-documents/docs/jesd79-5a"},
+  {"item":"Standard interior door height (US)","value":80,"unit":"in","notes":"~203.2 cm","source_url":"https://www.lowes.com/n/how-to/measure-a-door"},
+  {"item":"Wi‑Fi 6E spectrum","value":"5925–7125","unit":"MHz","notes":"region dependent; 6 GHz band","source_url":"https://www.wi-fi.org/discover-wi-fi/wi-fi-6e"},
+  {"item":"Car tire pressure (typical)","value":"30–35","unit":"PSI","notes":"~207–241 kPa; vehicle-specific","source_url":"https://www.nhtsa.gov/equipment/tires"},
+  {"item":"A4 paper size","value":"210 x 297","unit":"mm","notes":"ISO 216","source_url":"https://en.wikipedia.org/wiki/Paper_size#A_series"},
+  {"item":"Ethernet Cat6 maximum channel length","value":100,"unit":"m","notes":"90 m permanent link + 10 m patch cords","source_url":"https://en.wikipedia.org/wiki/Category_6_cable"},
+  {"item":"Normal adult blood pressure","value":"<120/80","unit":"mmHg","notes":"AHA/ACC normal definition","source_url":"https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings"}
+]
+
+

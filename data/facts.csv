@@ -1,0 +1,22 @@
+item,value,unit,notes,source_url
+USB 3.2 Gen 2 throughput,10,Gbps,"USB 10 Gbps branding; formerly USB 3.1 Gen 2 / 3.2 Gen 2x1",https://www.usb.org/defined-speed-identifiers
+Soccer goal size,"7.32 x 2.44",m,"width x height",https://www.theifab.com/laws/latest/the-field-of-play/#goal-dimensions
+AA battery voltage (alkaline),1.5,V,"nominal alkaline",https://data.energizer.com/pdfs/e91.pdf
+AA battery voltage (NiMH),1.2,V,"nominal NiMH rechargeable",https://data.energizer.com/pdfs/nh15-2300.pdf
+Passport photo size (UK),"35 x 45",mm,"UK specification",https://www.gov.uk/photos-for-passports/rules
+Passport photo size (US),"51 x 51",mm,"US specification (2 x 2 in)",https://travel.state.gov/content/travel/en/passports/how-apply/photos.html
+HDMI 2.1 bandwidth,48,Gbps,"Ultra High Speed HDMI",https://www.hdmi.org/spec21sub/ultrahighspeedcable
+Olympic swimming pool dimensions,"50 x 25",m,"competition; depth ≥ 2.0 m",https://en.wikipedia.org/wiki/Swimming_pool#Olympic_size
+CPU Tjunction max (AMD typical),95,C,"varies by CPU; example AMD limit",https://www.amd.com/en/support/kb/faq/cpu-maximum-temperatures
+CPU Tjunction max (Intel typical),100,C,"varies by CPU; example Intel value",https://www.intel.com/content/www/us/en/support/articles/000005597/processors.html
+Credit card size (ISO/IEC 7810 ID-1),"85.60 x 53.98",mm,"corner radius ~3.18 mm",https://en.wikipedia.org/wiki/ISO/IEC_7810
+Basketball hoop height,3.05,m,"rim height",https://refereeing.fiba.basketball/
+DDR5 base speed (JEDEC),4800,MT/s,"baseline; ~2400 MHz I/O clock",https://www.jedec.org/standards-documents/docs/jesd79-5a
+Standard interior door height (US),80,in,"~203.2 cm",https://www.lowes.com/n/how-to/measure-a-door
+Wi‑Fi 6E spectrum,"5925–7125",MHz,"region dependent; 6 GHz band",https://www.wi-fi.org/discover-wi-fi/wi-fi-6e
+Car tire pressure (typical),"30–35",PSI,"~207–241 kPa; vehicle-specific",https://www.nhtsa.gov/equipment/tires
+A4 paper size,"210 x 297",mm,"ISO 216",https://en.wikipedia.org/wiki/Paper_size#A_series
+Ethernet Cat6 maximum channel length,100,m,"90 m permanent link + 10 m patch cords",https://en.wikipedia.org/wiki/Category_6_cable
+Normal adult blood pressure,<120/80,mmHg,"AHA/ACC normal definition",https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
+
+
