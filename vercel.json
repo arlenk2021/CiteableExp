@@ -1,29 +1,6 @@
 {
   "version": 2,
-  "builds": [
-    { "src": "**/*.html", "use": "@vercel/static" },
-    { "src": "images/**", "use": "@vercel/static" },
-    { "src": "data/**", "use": "@vercel/static" },
-    { "src": "robots.txt", "use": "@vercel/static" },
-    { "src": "sitemap.xml", "use": "@vercel/static" }
-  ],
-  "cleanUrls": true,
-  "headers": [
-    {
-      "source": "/data/(.*)",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=3600" },
-        { "key": "Access-Control-Allow-Origin", "value": "*" }
-      ]
-    },
-    {
-      "source": "/images/(.*)",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000" },
-        { "key": "Content-Type", "value": "image/svg+xml" }
-      ]
-    }
-  ]
+  "cleanUrls": true
 }
 
 
